@@ -1,0 +1,42 @@
+.head-cont {
+  border: 0px solid;
+  padding: 25px 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.head-logo {
+  border: 0px solid green;
+  display: flex;
+}
+
+.options-row {
+  border: 0px solid green;
+  display: flex;
+  align-items: center;
+  width: 50%;
+  justify-content: space-evenly;
+}
+.option-font {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: #000000;
+  margin: 0;
+}
+
+.head-btn {
+  padding: 15px 40px;
+  background: #2c5f52;
+  border-radius: 35px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+  border: 0;
+}

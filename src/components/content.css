@@ -1,0 +1,123 @@
+.main-cont {
+  border: 0px solid purple;
+  display: flex;
+  padding: 0px 80px;
+  flex-direction: column;
+  align-items: center;
+  /* overflow-y: auto;
+  overflow-x: hidden; */
+}
+.main-cont-1 {
+  border: 0px solid red;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.prod-div {
+  width: 40%;
+  border: 0px solid;
+  display: flex;
+  flex-direction: column;
+}
+.img-div {
+  width: 40%;
+  border: 0px solid;
+}
+.img-style {
+  height: 100%;
+  width: 100%;
+}
+.unlock-divs {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.unlock-div {
+  display: flex;
+}
+
+.unlock-font {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 63.2594px;
+  line-height: 87px;
+  color: #000000;
+  margin: 0;
+}
+
+.your-font {
+  padding: 5px 30px;
+  border: 1.70219px dashed #2c5f52;
+  border-radius: 80.0031px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 57.8746px;
+  line-height: 79px;
+  margin: 0 0px 0 10px;
+  color: #2c5f52;
+}
+.yes-div {
+  border: 1.70219px dashed #2c5f52;
+  border-radius: 80.0031px;
+  padding: 4px;
+  margin: 0 0px 0 10px;
+}
+.play-div {
+  display: flex;
+  margin: 30px 0;
+}
+.prod-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16.9316px 67.7264px;
+
+  border: 1.09487px solid #2c5f52;
+  border-radius: 78.9227px;
+}
+.prod-font {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29.5989px;
+  line-height: 44px;
+  text-align: center;
+
+  color: #000000;
+  margin: 0;
+}
+
+.main-cont-2 {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 10px;
+  gap: 22px;
+  /* width: 652px; */
+  height: 72px;
+  background: #ffc0a1;
+  border-radius: 43.2px;
+  margin: 20px 0 0 0;
+}
+.info-font-1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.8px;
+  line-height: 19px;
+  color: #000000;
+}
+.info-font-2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9.6px;
+  line-height: 14px;
+
+  color: #000000;
+}
